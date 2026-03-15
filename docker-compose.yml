@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+    container_name: diabetes_backend
+    ports:
+      - "5000:5000"
+    restart: always
+    environment:
+      - FLASK_ENV=production
+
+  frontend:
+    build:
+      context: ./frontend
+    container_name: diabetes_frontend
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+    restart: always
+
+# Notice how the frontend depends on the backend. 
+# They run on a native docker bridge network inherently, meaning the Nginx config
+# inside `frontend` can communicate with `backend:5000` via internal DNS.
