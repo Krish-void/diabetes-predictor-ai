@@ -113,4 +113,4 @@ Ensure that all 8 fields are provided in the exact format (numbers, not strings)
 ---
 ## 🛡️ Cross-Origin Resource Sharing (CORS)
 
-Our API has CORS enabled by default, meaning you can easily make requests to it from any frontend application (React, Angular, Vue, Vanilla JS) running on different ports or domains without encountering blocked requests.
+My API has CORS enabled by default, meaning you can easily make requests to it from any frontend application (React, Angular, Vue, Vanilla JS) running on different ports or domains without encountering blocked requests.
