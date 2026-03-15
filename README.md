@@ -41,12 +41,12 @@ You simply type the numbers into a beautiful, glowing dashboard, click "Analyze"
 
 ## 🧰 Tech Stack
 
-![Python](https://img.shields.io/badge/python-3.10-blue)
-![Flask](https://img.shields.io/badge/flask-backend-black)
-![React](https://img.shields.io/badge/react-frontend-61DAFB)
-![Vite](https://img.shields.io/badge/vite-build-purple)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-ML-orange)
-![Docker](https://img.shields.io/badge/docker-containerized-2496ED)
+[![Python](https://img.shields.io/badge/python-3.10-blue)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/flask-backend-black)](https://flask.palletsprojects.com/)
+[![React](https://img.shields.io/badge/react-frontend-61DAFB)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/vite-build-purple)](https://vitejs.dev/)
+[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-ML-orange)](https://scikit-learn.org/)
+[![Docker](https://img.shields.io/badge/docker-containerized-2496ED)](https://www.docker.com/)
 
 ---
 
@@ -147,4 +147,5 @@ For developers looking to explore the code, here is how the repository is organi
 ---
 
 ## 📜 License
-MIT License  ![License](https://img.shields.io/badge/license-MIT-green)
+MIT License 
+![License](https://img.shields.io/badge/license-MIT-green)
