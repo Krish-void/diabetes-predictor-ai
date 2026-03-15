@@ -2,7 +2,7 @@
 
 ## 🌐 Live Application
 
-[Try the App](https://diabetes-predictor-ai-zeta.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://diabetes-predictor-ai-zeta.vercel.app)
 ---
 
 ![License](https://img.shields.io/badge/license-MIT-green)
