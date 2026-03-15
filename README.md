@@ -1,5 +1,15 @@
 # 🩺 Diabetes Predictor (AI-Powered)
 
+![License](https://img.shields.io/badge/license-MIT-green)
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![Flask](https://img.shields.io/badge/flask-backend-black)
+![React](https://img.shields.io/badge/react-frontend-61DAFB)
+![Vite](https://img.shields.io/badge/vite-build-purple)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-ML-orange)
+![Docker](https://img.shields.io/badge/docker-containerized-2496ED)
+
+AI-powered Diabetes Prediction web application built with Flask, React, TypeScript and Docker.
+---
 Welcome to the **Diabetes Predictor** project! This is a complete, beautifully designed Mini Full-Stack application powered by Artificial Intelligence (AI). 
 
 Whether you are an advanced engineer, a beginner developer, or a non-technical person who just wants to see AI in action, this project is built for **you** to run effortlessly. 
@@ -10,6 +20,13 @@ Whether you are an advanced engineer, a beginner developer, or a non-technical p
 This application uses a Machine Learning model (specifically, a *Random Forest Classifier*) that was trained on real historical medical data. By typing in 8 simple health metrics (like your Age, BMI, and Blood Pressure), the AI will instantly predict whether the patient is likely to have diabetes or not.
 
 You simply type the numbers into a beautiful, glowing dashboard, click "Analyze", and the result appears instantly!
+
+---
+
+
+## 📸 Application Preview
+
+![App Preview](references/assets/preview.png)
 
 ---
 
@@ -29,6 +46,15 @@ We built this application using a very clean, professional "Separation of Concer
 *(If you want to read more technical details, check out `references/Resource/TECH_STACK_AND_RESOURCES.md`)*
 
 ---
+
+## ⚡ Quick Start
+
+```bash
+docker-compose up -d --build
+```
+Then open [http://localhost](http://localhost) in your browser.   
+---
+
 
 ## 🚀 How to Run the App (1-Click Run!)
 
@@ -64,6 +90,25 @@ docker-compose down
 
 ---
 
+## 🛠 Manual Setup
+
+Backend
+
+```bash
+cd backend
+pip install -r requirements.txt
+python app.py
+```
+
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+---
+
 ## 📁 Repository Structure Overview
 For developers looking to explore the code, here is how the repository is organized cleanly:
 
@@ -71,3 +116,10 @@ For developers looking to explore the code, here is how the repository is organi
 - `/frontend/` ➔ Contains the React codebase, beautiful CSS styles, and its Nginx/Docker environment.
 - `/notebooks_and_data/` ➔ Contains the original research dataset and Jupyter Notebook used to train the AI.
 - `/references/` ➔ Contains legacy templates and educational resource text.
+
+
+---
+
+## 📜 License
+MIT License
+
