@@ -14,6 +14,7 @@ AI-powered Diabetes Prediction web application built with Flask, React, TypeScri
 
 - [🌟 What Does This App Do?](#-what-does-this-app-do)
 - [📸 Application Preview](#-application-preview)
+- [🔌 API Documentation](#-api-documentation-for-developers)  
 - [🧰 Tech Stack](#-tech-stack)
 - [🏗️ How It Was Built (The Tech Stack)](#️-how-it-was-built-the-tech-stack)
 - [⚡ Quick Start](#-quick-start)
@@ -36,6 +37,19 @@ You simply type the numbers into a beautiful, glowing dashboard, click "Analyze"
 ## 📸 Application Preview
 
 ![App Preview](references/assets/preview.png)
+
+---
+
+## 🔌 API Documentation (For Developers)
+
+If you are a developer building a healthcare application, web dashboard, or mobile app, you can integrate the **Diabetes Prediction AI Model** directly using the public REST API.
+
+Detailed API documentation including request format, parameters, and example responses is available here:
+
+📄 **API Documentation:**  
+[View Full API Documentation](references/API_DOCUMENTATION.md)
+
+This allows developers to easily send patient health metrics to the API and receive a diabetes prediction response programmatically.
 
 ---
 
