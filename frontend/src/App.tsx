@@ -43,7 +43,7 @@ function App() {
     setResult(null);
 
     try {
-      const response = await fetch('/api/predict', {
+      const response = await fetch('https://diabetes-predictor-ai-doa5.onrender.com/api/predict', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
