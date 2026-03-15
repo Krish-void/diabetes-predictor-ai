@@ -1,6 +1,6 @@
 # 🩺 Diabetes Predictor (AI-Powered)
 
-### **Live Demo:   **  https://diabetes-predictor-ai-zeta.vercel.app/
+### Live Demo:  https://diabetes-predictor-ai-zeta.vercel.app/
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Python](https://img.shields.io/badge/python-3.10-blue)
