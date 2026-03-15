@@ -2,7 +2,7 @@
 
 ## 🌐 Live Application
 
-[Live Demo]]https://diabetes-predictor-ai-zeta.vercel.app)
+[Live Demo]https://diabetes-predictor-ai-zeta.vercel.app)
 
 ---
 
