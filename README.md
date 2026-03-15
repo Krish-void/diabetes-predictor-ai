@@ -92,7 +92,7 @@ We built this application using a very clean, professional "Separation of Concer
 ```bash
 docker-compose up -d --build
 ```
-Then open [http://localhost](http://localhost) in your browser.   
+##### Then open [http://localhost](http://localhost) in your browser.   
 ---
 
 
