@@ -10,9 +10,18 @@
 
 AI-powered Diabetes Prediction web application built with Flask, React, TypeScript and Docker.
 ---
-Welcome to the **Diabetes Predictor** project! This is a complete, beautifully designed Mini Full-Stack application powered by Artificial Intelligence (AI). 
+## 📑 Table of Contents
 
-Whether you are an advanced engineer, a beginner developer, or a non-technical person who just wants to see AI in action, this project is built for **you** to run effortlessly. 
+- [🌟 What Does This App Do?](#-what-does-this-app-do)
+- [📸 Application Preview](#-application-preview)
+- [🏗️ How It Was Built (The Tech Stack)](#️-how-it-was-built-the-tech-stack)
+- [⚡ Quick Start](#-quick-start)
+- [🚀 How to Run the App (1-Click Run!)](#-how-to-run-the-app-1-click-run)
+- [🛑 How to Stop the App](#-how-to-stop-the-app)
+- [🛠 Manual Setup](#-manual-setup)
+- [📁 Repository Structure Overview](#-repository-structure-overview)
+- [📜 License](#-license)
+
 
 ---
 
