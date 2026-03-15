@@ -41,7 +41,6 @@ You simply type the numbers into a beautiful, glowing dashboard, click "Analyze"
 
 ## 🧰 Tech Stack
 
-![License](https://img.shields.io/badge/license-MIT-green)
 ![Python](https://img.shields.io/badge/python-3.10-blue)
 ![Flask](https://img.shields.io/badge/flask-backend-black)
 ![React](https://img.shields.io/badge/react-frontend-61DAFB)
@@ -148,5 +147,4 @@ For developers looking to explore the code, here is how the repository is organi
 ---
 
 ## 📜 License
-MIT License
-
+MIT License  ![License](https://img.shields.io/badge/license-MIT-green)
