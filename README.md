@@ -47,7 +47,7 @@ If you are a developer building a healthcare application, web dashboard, or mobi
 Detailed API documentation including request format, parameters, and example responses is available here:
 
 📄 **API Documentation:**  
-[View Full API Documentation](references/API_DOCUMENTATION.md)
+[View Full API Documentation](References/API_DOCUMENTATION.md)
 
 This allows developers to easily send patient health metrics to the API and receive a diabetes prediction response programmatically.
 
@@ -83,7 +83,7 @@ We built this application using a very clean, professional "Separation of Concer
    - Powered by **Docker**.
    - Docker wraps the entire Brain and Face into neat little packages (containers) so it works flawlessly on *any* computer without you needing to install Python or Node.js manually!
 
-*(If you want to read more technical details, check out `references/Resource/TECH_STACK_AND_RESOURCES.md`)*
+*(If you want to read more technical details, check out `References/Resource/TECH_STACK_AND_RESOURCES.md`)*
 
 ---
 
@@ -155,7 +155,7 @@ For developers looking to explore the code, here is how the repository is organi
 - `/backend/` ➔ Contains the Python API, the AI model, and its Docker environment.
 - `/frontend/` ➔ Contains the React codebase, beautiful CSS styles, and its Nginx/Docker environment.
 - `/notebooks_and_data/` ➔ Contains the original research dataset and Jupyter Notebook used to train the AI.
-- `/references/` ➔ Contains legacy templates and educational resource text.
+- `/References/` ➔ Contains legacy templates and educational resource text.
 
 
 ---
