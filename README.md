@@ -36,7 +36,7 @@ You simply type the numbers into a beautiful, glowing dashboard, click "Analyze"
 
 ## 📸 Application Preview
 
-![App Preview](references/assets/preview.png)
+![App Preview](References/assets/preview.png)
 
 ---
 
